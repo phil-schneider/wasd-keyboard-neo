@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="wasd-inkscape-105-4.3.2017-de-ch-neo.svg"
+   sodipodi:docname="wasd-inkscape-105-4.3.2017-de-ch-neo-PRINT.svg"
    inkscape:export-filename="C:\eplatform\git-repos\wasd-keyboard-neo\wasd-inkscape-105-4.3.2017-de-ch-neo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -121,7 +121,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71047883"
-     inkscape:cx="896.62916"
+     inkscape:cx="784.73279"
      inkscape:cy="263.84867"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
@@ -129,7 +129,7 @@
      units="in"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
-     inkscape:window-x="3832"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
@@ -598,7 +598,7 @@
          style="font-size:24px">WASD Keyboards 105/88-Key Design Template</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Template Background (Not Printed) Kopie"
      id="g4809"
      inkscape:groupmode="layer"
@@ -615,7 +615,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Key Colors(Not Printed)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#96938e;stroke-width:0.66670054;stroke-linecap:round;stroke-linejoin:round"
@@ -3049,7 +3049,7 @@
      inkscape:groupmode="layer"
      id="layer33"
      inkscape:label="Key Frames (Not Printed)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        style="display:inline;fill-rule:evenodd"
@@ -3213,7 +3213,7 @@
       <g
          id="g6862">
         <path
-           style="fill:none;fill-rule:nonzero;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#5f3032;fill-rule:nonzero;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round"
            inkscape:connector-curvature="0"
            class="fil0 str0"
            d="m 122.66667,1715.2 c 0,40.5333 29.86666,72.5333 66.13333,72.5333 h 393.6 c 36.26667,0 66.13333,-33.0666 66.13333,-72.5333 V 1275.7333 C 648.53333,1235.2 618.66667,1203.2 582.4,1203.2 H 188.8 c -36.26667,0 -66.13333,32 -66.13333,72.5333 z"
@@ -16055,7 +16055,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer35"
-     inkscape:label="Alpha - German"
+     inkscape:label="PRINT - Alpha - German"
      style="display:inline"
      sodipodi:insensitive="true">
     <text
@@ -21466,7 +21466,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer20"
-     inkscape:label="Mods - Media Keys"
+     inkscape:label="PRINT - Mods - Media Keys"
      style="display:inline"
      sodipodi:insensitive="true">
     <path
@@ -21531,7 +21531,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer19"
-     inkscape:label="Mods - Symbols"
+     inkscape:label="PRINT - Mods - Symbols"
      style="display:inline"
      sodipodi:insensitive="true">
     <text
@@ -23743,7 +23743,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Neo - L1"
+     inkscape:label="PRINT - Neo - L1"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
@@ -24489,7 +24489,7 @@
     </g>
   </g>
   <g
-     inkscape:label="Neo - L2"
+     inkscape:label="PRINT - Neo - L2"
      id="g28593"
      inkscape:groupmode="layer"
      style="display:inline"
@@ -24711,7 +24711,7 @@
   <g
      inkscape:groupmode="layer"
      id="g28595"
-     inkscape:label="Neo - L3"
+     inkscape:label="PRINT - Neo - L3"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
@@ -25443,7 +25443,7 @@
        id="path20442-2" />
   </g>
   <g
-     inkscape:label="Neo - L4"
+     inkscape:label="PRINT - Neo - L4"
      id="g28597"
      inkscape:groupmode="layer"
      style="display:inline">

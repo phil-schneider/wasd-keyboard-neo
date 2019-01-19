@@ -121,15 +121,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71047883"
-     inkscape:cx="896.62916"
+     inkscape:cx="994.45051"
      inkscape:cy="263.84867"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer33"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
-     inkscape:window-x="3832"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
@@ -615,8 +615,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Key Colors(Not Printed)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="display:inline;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#96938e;stroke-width:0.66670054;stroke-linecap:round;stroke-linejoin:round"
        inkscape:connector-curvature="0"
@@ -3213,7 +3212,7 @@
       <g
          id="g6862">
         <path
-           style="fill:none;fill-rule:nonzero;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#5f3032;fill-rule:nonzero;stroke:#96938e;stroke-width:7.4078722;stroke-linecap:round;stroke-linejoin:round"
            inkscape:connector-curvature="0"
            class="fil0 str0"
            d="m 122.66667,1715.2 c 0,40.5333 29.86666,72.5333 66.13333,72.5333 h 393.6 c 36.26667,0 66.13333,-33.0666 66.13333,-72.5333 V 1275.7333 C 648.53333,1235.2 618.66667,1203.2 582.4,1203.2 H 188.8 c -36.26667,0 -66.13333,32 -66.13333,72.5333 z"
